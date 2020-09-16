@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kJm0meyXjhGtgyaEWDgZEwWlhI4lV1+f7Qj5fJ0E5xkaBakzVczmNTQCbORBV5G/PjcPvs1Y9rts+toLi5TQGg==",
+  "success": true,
+  "projectFilePath": "D:\\.Net All project bridgelabz\\ConsoleAppDemo\\ConsoleAppDemo\\ConsoleAppDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Soumen\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
